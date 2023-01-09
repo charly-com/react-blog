@@ -8,7 +8,7 @@ import { GrHelp } from "react-icons/gr";
 import { BiLogOut } from "react-icons/bi";
 
 const User = () => {
-  const user = true;
+  const user = false;
 
   const [profileOpen, setProfileOpen] = useState(false);
 
